@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1625271076 source:c:\users\pc\desktop\proyectos_codeblocks\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625265921 c:\users\pc\desktop\proyectos_codeblocks\tp4\linkedlist.h
+
+1625355716 source:c:\users\pc\desktop\proyectos_codeblocks\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"funciones.h"
+
+1625351430 c:\users\pc\desktop\proyectos_codeblocks\tp4\funciones.h
+	"LinkedList.h"
+
+1625351591 source:c:\users\pc\desktop\proyectos_codeblocks\tp4\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"string.h"
+
